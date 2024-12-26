@@ -1,15 +1,4 @@
 # brain-fukygthfl
-
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.38. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+悪口でプログラミングできたらいいよね  
+構想はBrainfuckまんまですが機能豊富のつもりです  
+まだ機能は少なくて完全に不完全なので、かみんぐすーん。
